@@ -1,6 +1,6 @@
 # slither-wrapper
 
-Wrapper for launching Slither within the [Eth Security Toolbox](https://github.com/trailofbits/eth-security-toolbox/blob/master/Dockerfile) docker container on hardhat-based projects.
+Wrapper for launching [Slither](https://github.com/crytic/slither) within the [Eth Security Toolbox](https://github.com/trailofbits/eth-security-toolbox/blob/master/Dockerfile) docker container on hardhat-based projects.
 
 ## Why?
 
